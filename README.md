@@ -1,5 +1,7 @@
 # Projekt Hive
 
+![Projekt Hive](./projekt-hive-banner.png)
+
 ## Problem Definition
 
 **Ensuring the timely delivery of projects is hard.** There are two critical factors among various others that determine the success of project delivery: 
