@@ -4,13 +4,13 @@
 
 ## Problem Definition
 
-**Ensuring the timely delivery of projects is hard.** There are two critical factors among various others that determine the success of project delivery: 
+**Ensuring the timely delivery of projects is hard.** There are three critical factors among various others that determine the success of a project delivery: 
 
-1. Team Motivation
+1. Team motivation
 2. Timely tracking of the project progress
 3. Winning distribution of project managers' time
 
-Both of these factors are concerns both the project managers and the team do share. 
+All of these factors are concerns for both the project managers and the team.
 
 ### Team Motivation
 
