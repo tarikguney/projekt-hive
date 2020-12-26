@@ -34,13 +34,13 @@ Project managers play a critical role in the success of their teams. The more ti
 
 ## The Solution
 
-An automation tool helps the team stay motivated while making the project development progress tracking a more proactive endeavor. The fundamental responsibilities of this tool would include:
+The solution would be an automation tool helps the team stay motivated while making the project progress monitoring a more proactive endeavor. The fundamental responsibilities of this tool would include:
 
-1. Proactively reviewing the sprint board, makes suggestions, and sends on-time reminders to the team members to unblock issues that make the project progress tracking harder.
+1. Proactively reviewing the sprint board, makes suggestions, and sends on-time reminders to the team members to unblock the issues, whick make the monitoring of the project progress harder.
 2. Making the individual contributions more visible via frequently accessed communication environments like Google Chat or Slack.
 3. Making the overall progress of a project development visible via frequently accessed communication environments like Google Chat or Slack.
-3. Creating a competitive team environment to empower both the individual efforts and team efforts. A sample metric would be collecting and reporting the quality of a work rather than the quantity of work completed by an engineer. Another metric would be the timeliness and the quality of the communication from a team member of their work status. It is usually the quantity of work expected from an engineer that creates a hostile team environment. Gamification of this process with constructs like "Leadership Board" and "The best of the week" could do revolutionary wonders in the motivation in the long run. The top engineers can also be rewarded with small gifts and evaluated accordingly at the yearly performance reviews.
-4. Freeing up roject managers' time by automating some of their most repetitive responsibilities. Managers then can spend more time unblocking their team members and listen to them more for their needs.
+3. Creating a competitive team environment to empower both the individual efforts and team efforts. A sample metric would be collecting and reporting the quality of a work rather than the quantity of work completed by an engineer. Another metric would be the timeliness and the quality of the communication from a team member of their work status. It is usually the quantity of work expected from an engineer that creates a hostile team environment. Gamification of this process with constructs like "Leadership Board" and "The best of the week" could do revolutionary wonders for the increased team motivation in the long run. The top engineers in these leadership boards can also be rewarded with small gifts and evaluated accordingly at the yearly performance reviews.
+4. Freeing up project managers' time by automating some of their most repetitive responsibilities. Managers then can spend more time unblocking their team members and listen to them more for their needs.
 
 ## Projekt Hive
 
@@ -50,7 +50,7 @@ Projekt Hive aims to address these issues by implementing the recommended soluti
 
 #### Where is the source code?
 
-The actual development happens in a private repo until it is ready.
+The actual development happens in a private repo until it is ready for shipping.
 
 #### How can I contribute?
 
