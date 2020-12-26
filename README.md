@@ -44,7 +44,7 @@ The solution would be an automation tool helps the team stay motivated while mak
 
 ## Projekt Hive
 
-Projekt Hive aims to address these issues by implementing the recommended solution above. It is intentonally spelled as "Projekt" with K as it aims to offer a non-traditional solution to a traditional problem. Therefore, the letter "K" represents the deviation from the standards. The word "Hive" represents the team factor in the solution. It aims to improve the team by improving the individual and create a positive feedback loop between the team and the individuals. 
+Projekt Hive aims to address these issues by implementing the recommended solution above. It is intentionally spelled as "Projekt" with K, for it aims to offer a non-traditional solution to a traditional problem. Therefore, the letter "K" represents the deviation from the standards. The word "Hive" represents the team factor in the solution. It aims to improve the team by improving the individual and create a positive feedback loop between the team and the individuals. 
 
 ### FAQ
 
