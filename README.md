@@ -8,7 +8,7 @@
 
 1. Team motivation
 2. Timely tracking of the project progress
-3. Winning distribution of project managers' time
+3. Strategic distribution of project managers' time
 
 All of these factors are concerns for both the project managers and the team.
 
@@ -28,7 +28,7 @@ Successfully monitoring a project's progress depends on the proper communication
 
 There are already many venues for the teams to communicate the statuses of their work items. These venues include sprint boards as offered by Azure DevOps, Version One, Github. Also, the team share a quick update of their work progress during the scrum's standup meetings. The bigger the team gets, the easier for the project manager to forget the status communicated verbally by their team members. Therefore, it is generally the best to keep the sprint board current so that everyone can easily see the progress of everyone's work.
 
-### Winning distribution of project managers' time
+### Strategic distribution of project managers' time
 
 Project managers play a critical role in the success of their teams. The more time they spend on time-consuming but less strategic duties, the less time they will spend with their team, which includes establishing a close connection with their team members and be there when the team should be unblocked. A manager's time cannot free up unless their repetitive duties are automated. Also, these repetitive tasks won't scale well as the number of team member increase.
 
