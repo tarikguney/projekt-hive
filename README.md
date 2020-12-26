@@ -58,7 +58,7 @@ Currently, no contributions are needed until further notice.
 
 #### Where does this idea come from?
 
-From my first project: **Manager Automation**, which can be found here: https://github.com/tarikguney/managers-automation
+From my first project: **Manager Automation**, which can be found here: https://github.com/tarikguney/manager-automation
 
 #### Where can I ask about my questions?
 
